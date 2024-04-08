@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\recipe_app_storage\bin\Debug\recipe_app_storage.exe.config
+C:\Users\user\source\repos\recipe_app_storage\bin\Debug\recipe_app_storage.exe
+C:\Users\user\source\repos\recipe_app_storage\bin\Debug\recipe_app_storage.pdb
+C:\Users\user\source\repos\recipe_app_storage\obj\Debug\recipe_app_storage.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\recipe_app_storage\obj\Debug\recipe_app_storage.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\recipe_app_storage\obj\Debug\recipe_app_storage.exe
+C:\Users\user\source\repos\recipe_app_storage\obj\Debug\recipe_app_storage.pdb
